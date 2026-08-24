@@ -16,7 +16,7 @@ OR y XOR utilizando circuitos integrados de la serie 74HC.
 
 ## 1. Compuerta AND - 74HC08
 La salida es 1 únicamente cuando ambas entradas son 1.
-![AND](capturas/compuerta_AND.png)
+![AND](capturas/AND.png)
 
 **Tabla de verdad:**
 | A | B | Y = A·B |
@@ -28,7 +28,7 @@ La salida es 1 únicamente cuando ambas entradas son 1.
 
 ## 2. Compuerta OR - 74HC32
 La salida es 1 cuando al menos una entrada es 1.
-![OR](capturas/compuerta_OR.png)
+![OR](capturas/OR.png)
 
 **Tabla de verdad:**
 | A | B | Y = A+B |
@@ -40,7 +40,7 @@ La salida es 1 cuando al menos una entrada es 1.
 
 ## 3. Compuerta XOR - 74HC86
 La salida es 1 cuando las entradas son diferentes.
-![XOR](capturas/compuerta_XOR.png)
+![XOR](capturas/XOR.png)
 
 **Tabla de verdad:**
 | A | B | Y = A⊕B |
