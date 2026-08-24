@@ -1,8 +1,7 @@
 # Practica 1: Compuertas Lógicas Básicas
 
 ## Objetivo
-Implementar y comprobar el funcionamiento de las compuertas lógicas AND, 
-OR y XOR utilizando circuitos integrados de la serie 74HC.
+Implementar y comprobar el funcionamiento de las compuertas lógicas AND, OR y XOR utilizando circuitos integrados de la serie 74HC.
 
 ## Materiales
 - 1x Arduino UNO
@@ -16,7 +15,7 @@ OR y XOR utilizando circuitos integrados de la serie 74HC.
 
 ## 1. Compuerta AND - 74HC08
 La salida es 1 únicamente cuando ambas entradas son 1.
-![AND](capturas/AND.png)
+![AND](AND.png)
 
 **Tabla de verdad:**
 | A | B | Y = A·B |
@@ -28,7 +27,7 @@ La salida es 1 únicamente cuando ambas entradas son 1.
 
 ## 2. Compuerta OR - 74HC32
 La salida es 1 cuando al menos una entrada es 1.
-![OR](capturas/OR.png)
+![OR](OR.png)
 
 **Tabla de verdad:**
 | A | B | Y = A+B |
@@ -40,7 +39,7 @@ La salida es 1 cuando al menos una entrada es 1.
 
 ## 3. Compuerta XOR - 74HC86
 La salida es 1 cuando las entradas son diferentes.
-![XOR](capturas/XOR.png)
+![XOR](XOR.png)
 
 **Tabla de verdad:**
 | A | B | Y = A⊕B |
@@ -51,5 +50,4 @@ La salida es 1 cuando las entradas son diferentes.
 | 1 | 1 |    0    |
 
 ## Conclusión
-Se verificó el funcionamiento de las 3 compuertas básicas.
-La compuerta XOR es la base para los sumadores en la ALU de un procesador.
+Se verificó el funcionamiento de las 3 compuertas básicas. La compuerta XOR es la base para los sumadores en la ALU de un procesador.
