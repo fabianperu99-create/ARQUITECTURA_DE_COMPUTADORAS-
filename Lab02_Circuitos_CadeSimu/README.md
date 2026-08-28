@@ -45,11 +45,3 @@ Se verificó cada combinación en CADESIMU y se comprobó que el comportamiento 
 2.  Se comprobó en la simulación el uso de contactos NA, NC y enclavamientos.
 3.  El software facilita entender la lógica de relés antes de llevarlo a tableros reales.
 4.  Todas las prácticas fueron validadas y funcionan correctamente en CADESIMU.
-
-### 6. RECOMENDACIONES
-1.  Guardar cada circuito CADESIMU con nombre claro: `Practica1.cde`
-2.  Verificar el estado inicial de cada contacto antes de simular.
-3.  Utilizar CADESIMU para probar fallas antes de implementar en físico.
-
-### 7. ANEXOS
-Archivos CADESIMU: `Practica1.cde`, `Practica2.cde`, `Practica3.cde`, `Practica4.cde`
