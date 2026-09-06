@@ -43,7 +43,3 @@ Armado y desarmado exitoso. La PC encendió correctamente después del proceso.
 Este laboratorio fue clave para entender cómo funciona una PC por dentro. 
 Aprendí que el orden y la paciencia son más importantes que la velocidad.
 
----
-**Curso**: Arquitectura de Computadoras  
-**Fecha**: Septiembre 2026  
-**Ubicación**: Trujillo, La Libertad
