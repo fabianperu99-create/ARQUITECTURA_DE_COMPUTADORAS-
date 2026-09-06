@@ -25,13 +25,13 @@ encendido de LEDs usando entradas digitales.
 ## 📸 EVIDENCIA
 
 ### Foto 1: Circuito en Protoboard
-![Circuito Armado](evidencia1.jpg)
+![Circuito Armado](1.2.jpeg)
 
 ### Foto 2: Pruebas con Arduino UNO
-![Pruebas Arduino](evidencia2.jpg)
+![Pruebas Arduino](1.3.jpeg)
 
 ### Foto 3: Resultado Final
-![Resultado](evidencia3.jpg)
+![Resultado](1.4.jpeg)
 
 ## ✅ Conclusión
 Logré entender cómo funciona la comunicación entre Arduino y los componentes 
