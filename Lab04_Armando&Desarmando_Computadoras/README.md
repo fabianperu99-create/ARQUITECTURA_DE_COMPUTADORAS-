@@ -21,8 +21,7 @@ no malograr nada.
 ### Collage: Proceso Completo de Desarmado
 ![Proceso de Desarmado](27.jpeg)
 
-**Secuencia:** Preparación → Retiro de Tapa → Desconexión → Componentes → RAM → Desmontaje → Placa Madre  
-→ Gabinete Vacío
+**Secuencia:** Preparación → Retiro de Tapa → Desconexión → Componentes → RAM → Desmontaje → Placa Madre  → Gabinete Vacío
 
 ## 🔩 PROCESO DE ARMADO
 
