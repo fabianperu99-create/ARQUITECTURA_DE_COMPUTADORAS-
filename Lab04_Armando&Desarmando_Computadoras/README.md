@@ -19,7 +19,7 @@ no malograr nada.
 ## 🔧 PROCESO DE DESARMADO
 
 ### Collage: Proceso Completo de Desarmado
-![Proceso de Desarmado](collage_desarmado.jpg)
+![Proceso de Desarmado](27.jpeg)
 
 **Secuencia:** Preparación → Retiro de Tapa → Desconexión → Componentes → RAM → Desmontaje → Placa Madre  
 → Gabinete Vacío
@@ -27,7 +27,7 @@ no malograr nada.
 ## 🔩 PROCESO DE ARMADO
 
 ### Collage: Proceso Completo de Armado
-![Proceso de Armado](collage_armado.jpg)
+![Proceso de Armado](28.jpeg)
 
 **Secuencia:** Inicio → Placa Madre → Componentes → Discos → Cables → Verificación → Orden → Cierre Final
 
